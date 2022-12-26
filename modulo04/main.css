@@ -104,3 +104,22 @@ section h2 {
 #economy .articles article a {
     background-color: #ff9f1a;
 }
+
+#entret {
+    background-color: rgba(115, 36, 180, 0.521);
+}
+
+#entret .articles article a {
+    background-color: rgba(46, 5, 78, 0.767);
+}
+
+#pol {
+    background-color: rgba(54, 50, 50, 0.521);
+}
+
+#pol .articles article a {
+    background-color: black;
+}
+
+
+
