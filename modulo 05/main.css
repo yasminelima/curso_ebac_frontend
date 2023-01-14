@@ -12,7 +12,7 @@ form button {
     font-weight: normal;
 }
 
-body {
+body, input, textarea {
     font-family: 'Roboto', sans-serif;
 }
 
